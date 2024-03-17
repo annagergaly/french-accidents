@@ -9,5 +9,6 @@ Contents of files:
 
 * French_accidents.pdf: Documentation
 * characteristics.ipynb, places.ipynb, users.ipynb, vehicles.ipynb: Jupyter notebooks for analyzing each corresponding data file
+* data_merge.ipynb: Merging the separate files into one dataset
 * visualization.ipynb: Notebook used to generate data for the visualizations on the map
 * data/..: Data files (original/raw and preprocessed)
