@@ -9,7 +9,8 @@ Contents of files:
 
 * French_accidents.pdf: Documentation
 * characteristics.ipynb, places.ipynb, users.ipynb, vehicles.ipynb: Jupyter notebooks for analyzing each corresponding data file
-* data_merge.ipynb: Merging the separate files into one dataset and training a Bayes Network.
+* data_merge.ipynb: Merging the separate files into one dataset, training a Bayes Network and asking queries
 * visualization.ipynb: Notebook used to generate data for the visualizations on the map
 * data/..: Data files (original/raw and preprocessed)
-* model_indegree4.xml : Trained bayes network saved in xmlbif format
+* model_indegree4.xml: Trained bayes network saved in xmlbif format
+* graph.png: structure of the model, visualized
